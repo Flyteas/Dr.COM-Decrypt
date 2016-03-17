@@ -1,8 +1,8 @@
-program Project1;
+program DrComDecrypt;
 
 uses
   Forms,
-  Unit1 in 'Unit1.pas' {MainForm};
+  DrcomDecryptor in 'DrcomDecryptor.pas' {MainForm};
 
 {$R *.res}
 
